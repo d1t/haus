@@ -1,0 +1,61 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.jumbotron h2, h4 {
+	color: #fff;
+	position: relative;
+	top: 20%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.jumbotron {
+	background: #000;
+	height: 100vh;
+}
+
+.logo {
+	position: relative;
+	top: 20%;
+}
+
+.jumbotron li {
+	list-style: none;
+}
+
+.links {
+	position: relative;
+	top: 20%;
+}
+
+.links about h1 {
+	font-weight: 300;
+	color: #fff;
+}
+
+.about a, .home a {
+		color: #fff;
+}
+
+.about a:hover, .home a:hover {
+	text-decoration: none;
+	text-shadow:3px 3px 10px #FFF;
+}
+
+.container h5 {
+	font-size: 20px;
+	color: #fff;
+}
+
+.container .story {
+	margin-right: auto;
+	margin-left: auto;
+	width: 600px;
+	line-height: 40px;
+}
+
